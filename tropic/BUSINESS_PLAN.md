@@ -17,6 +17,36 @@
 
 ---
 
+## 1a. Starting on £150 (the plan you can actually run now)
+
+£150 won't cover 6 tees with full embroidery: the blanks alone are £117. So start smaller, spend only on what shows up in photos, and let pre-orders pay for production.
+
+### What to spend it on
+| Item | Est. cost |
+|---|---|
+| 3 × Heavy Tee, one per colour (Ivory, Palm Green, Black), in M or L | £58.50 (less on a trade price) |
+| Digitise **one** small palm file (for chest and sleeve) | £15–£30 |
+| Chest + sleeve embroidery × 3 | £20–£35 |
+| Back design as **DTF print** instead of embroidery (no digitising fee) | £15–£25 |
+| **Total** | **≈ £110–£150** |
+
+- The large embroidered back is the most expensive part (digitising and stitching could take most of your budget), so print the back for now. Embroidered front with a printed back is common on premium tees. Upgrade the back to embroidery once sales pay for it.
+- Get 2–3 quotes first. Ask whether they'll **waive digitising** if you commit to a bigger order later, and ask for a photo of a test stitch-out.
+- If anything is left over, keep it as a buffer for postage or a reprint.
+
+### Free for now
+- **Trademark:** the UKIPO register search is free, so do it now. Pay for filing (~£170) from your first sales.
+- **Photos:** use a friend with a good phone, golden-hour light and the free locations above. Three tees are enough for one person per colour, or one person with three looks.
+- **Shop:** skip Shopify for now. Use Instagram plus payment links (Stripe or PayPal), or a free Big Cartel store.
+
+### Funding the next run: pre-orders
+1. Post the photos for 2–3 weeks and build a waitlist.
+2. Open pre-orders at **£50–£55** with a clear delivery date (e.g. "ships in 4 weeks").
+3. **20 pre-orders × £50 = £1,000**, which pays for a proper run at trade price with full embroidery.
+4. Only order production once the money is in. Refund anyone you can't deliver to on time (UK consumer law requires this anyway).
+
+---
+
 ## 2. Product: the AS Colour Heavy Tee (5080)
 
 - Heavyweight, boxy fit. That's the right base for "clean, smart" because it holds shape and doesn't cling.
